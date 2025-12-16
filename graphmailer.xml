@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" group="system" version="4.0" method="upgrade">
+    <name>System - Graph Mailer</name>
+    <author>MGX WEB developer</author>
+    <version>1.0.0</version>
+    <description>Invio email tramite microsoft graph per form chronoform</description>
+    <files>
+        <filename plugin="graphmailer">graphmailer.php</filename>
+    </files>
+</extension>
