@@ -4,7 +4,7 @@
 </p>
 
 <!-- Titolo e descrizione -->
-<h1 align="center">Nome Progetto</h1>
+<h1 align="center">GraphMailSender</h1>
 <p align="center">Una breve descrizione del progetto che cattura subito l'attenzione.</p>
 
 <!-- Badge centrati -->
